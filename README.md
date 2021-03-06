@@ -37,4 +37,4 @@ I Understand Most Concepts Of Programming & I Have Always Been Solving Problems 
 # fin
 Thanks for Reading!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-builder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-builder)]
