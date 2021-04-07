@@ -30,3 +30,4 @@ Thanks for Reading!
 
 
 ![2Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-builder&layout=compact)
+![Kai](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
