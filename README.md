@@ -15,6 +15,23 @@ I Also Bare a couple of Aliases/Nicknames Such as kliJnce, KaiTheCodeManager, An
 # What i Work With
 I Mainly work With Console & C++ Library Programming. I Use python for the boring automations Such as for loops, Input, & Much more considering I Work with the Windows OS & windows.h
 
+# Languages & Stuff
+- C++
+- C#
+- Python
+- Lua
+- Ruby
+- Java
+- JavaScript
+- CSS
+- HTML
+- Node.JS
+- C
+- Pug
+- Express
+
+
+
 I Started Programming Since About The End-ish Of My 6th Year In School (6th Grade).
 
 Programming Is A Skill That I've been luck enough to possess. I Want to thank github for helping me set up my Social Pages.
