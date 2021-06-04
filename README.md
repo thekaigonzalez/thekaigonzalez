@@ -46,5 +46,5 @@ I Understand Most Concepts Of Programming & I Have Always Been Solving Problems 
 Thanks for Reading!
 
 
-![2Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kai-builder&layout=compact)
-![Kai](https://github-readme-stats.vercel.app/api?username=kai-builder&show_icons=true&theme=radical)
+![2Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=thekaigonzalez&layout=compact)
+![Kai](https://github-readme-stats.vercel.app/api?username=thekaigonzalez&show_icons=true&theme=radical)
