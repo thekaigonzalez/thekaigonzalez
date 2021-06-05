@@ -20,7 +20,6 @@ I Mainly work With Console & C++ Library Programming. I Use python for the borin
 - C#
 - Python
 - Lua
-- Ruby
 - Java
 - JavaScript
 - CSS
