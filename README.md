@@ -13,7 +13,7 @@ Projects Usually Take around 1-10 Days to finish the First Stable Releases, kliJ
 I Also Bare a couple of Aliases/Nicknames Such as kliJnce, KaiTheCodeManager, And KaiScripts.
 
 # What i Work With
-I Mainly work With Console & C++ Library Programming. I Use python for the boring automations Such as for loops, Input, & Much more considering I Work with the Windows OS & windows.h
+I Mainly work With Console and Graphics programming (KTA)
 
 # Languages & Stuff
 - C++
