@@ -29,6 +29,11 @@ I Mainly work With Console & C++ Library Programming. I Use python for the borin
 - C
 - Pug
 - Express
+- Assembly
+- Haxe
+- Make
+- Rust
+- Perl
 
 
 
