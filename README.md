@@ -1,13 +1,10 @@
-# Kai Builder is a Software engineer & Programmer That Aids to Create Libraries and Languages For Easier And Rapid Development.
-Hi! I'm Kai, And I Develop Things.
+# Kai Gonzalez
+Hi! I'm Kai, And I Develop pretty cool things.
 
-I Mainly Develop(ed) In python, But as of recently, I've been programming Apps & Languages In C++.
-
-I've Always had an obsession of Contribution & Helping Others with Certain Projects/Ideas.
+I mainly program in languages such as Python, Lua, C, And C++.
 
 I'm Not too into Profit, I Develop Open-Source most of the time.
 Projects Usually Take around 1-10 Days to finish the First Stable Releases, kliJnce#5000 Is my discord, And Also another place to get in contact with me.
-I Also Bare a couple of Aliases/Nicknames Such as kliJnce, KaiTheCodeManager, And KaiScripts.
 
 # What i Work With
 I Mainly work With Console and Graphics programming (KTA)
