@@ -5,8 +5,7 @@ I Mainly Develop(ed) In python, But as of recently, I've been programming Apps &
 
 I've Always had an obsession of Contribution & Helping Others with Certain Projects/Ideas.
 
-I'm Not too into Profit, I Develop Open-Source most of the time. I'd Usually Private a Repository Such as A Language, Or A App That i spent very Long on. 
-
+I'm Not too into Profit, I Develop Open-Source most of the time.
 Projects Usually Take around 1-10 Days to finish the First Stable Releases, kliJnce#5000 Is my discord, And Also another place to get in contact with me.
 I Also Bare a couple of Aliases/Nicknames Such as kliJnce, KaiTheCodeManager, And KaiScripts.
 
