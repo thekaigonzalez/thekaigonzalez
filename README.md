@@ -3,8 +3,6 @@ Hi! I'm Kai, And I Develop Things.
 
 I Mainly Develop(ed) In python, But as of recently, I've been programming Apps & Languages In C++.
 
-My Main Versions are C++12, 15, and 20.
-
 I've Always had an obsession of Contribution & Helping Others with Certain Projects/Ideas.
 
 I'm Not too into Profit, I Develop Open-Source most of the time. I'd Usually Private a Repository Such as A Language, Or A App That i spent very Long on. 
