@@ -1,49 +1,21 @@
-# Kai Gonzalez
-Hi! I'm Kai, And I Develop pretty cool things.
+# kai gonzalez
+i was gonna try to make something bubbly and poppy
 
-I mainly program in languages such as Python, Lua, C, And C++.
+but i'm too lazy
 
-I'm Not too into Profit, I Develop Open-Source most of the time.
-Projects Usually Take around 1-10 Days to finish the First Stable Releases, kliJnce#5000 Is my discord, And Also another place to get in contact with me.
+owner of the NFy Music App & the open sourced implementation, NFy Mono, also
+own libnfy and nfy-cli.
 
-# What i Work With
-I Mainly work With Console and Graphics programming (KTA)
+## What have I done from 2019/2020 - 2022
 
-# Languages & Stuff
-- C++
-- C#
-- Python
-- Lua
-- Go
-- Java
-- JavaScript
-- CSS
-- HTML
-- Node.JS
-- C
-- Pug
-- Express
-- Assembly
-- Haxe
-- Make
-- Rust
-- Perl
+👾 worked on a couple games in C++, C#, Lua, Python, and GDScript.
 
+👾 I do general purpose programs in Python, Lua, and D
 
+👾 I've written private minecraft mods.
 
-I Started Programming Since About The End-ish Of My 6th Year In School (6th Grade).
+👾 discord bots in Java, JavaScript, Lua, Python, and D.
 
-Programming Is A Skill That I've been luck enough to possess. I Want to thank github for helping me set up my Social Pages.
+👾 Many sub-vm projects
 
-   
-# Context
-I've always Tried Learning The Base Language Before using Engine Language Such As GDScript, C# In Unity, Or C++ In Unreal Engine. 
-
-I Understand Most Concepts Of Programming & I Have Always Been Solving Problems & Issues.
-
-# fin
-Thanks for Reading!
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekaigonzalez)](https://github.com/anuraghazra/github-readme-stats)
-![Kai](https://github-readme-stats.vercel.app/api?username=thekaigonzalez&show_icons=true&theme=radical)
+👾 programming languages... too many programming languages
