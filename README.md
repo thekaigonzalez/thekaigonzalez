@@ -12,5 +12,5 @@ You have to have a reason! 😡
 
 <details>
   <summary>DO NOT CLICK</summary>
-  `I'm a furry femboy.`
+  <code>I'm a furry femboy.</code>
 </details>
