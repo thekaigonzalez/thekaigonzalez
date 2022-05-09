@@ -1,16 +1,5 @@
-Let me stop you for a second,
+Sigh... Like the 5th revision.
 
-Why are you here?
+I don't know any iframe embed stuff so take this basic readme.
 
-Because of my music line, NFy? 🎶
-
-Is it because of my abandoned and terrible DoorsOS? 💻
-
-Or is it because of my KMOD game? 🎮
-
-You have to have a reason! 😡
-
-<details>
-  <summary>DO NOT CLICK</summary>
-  <code>I'm a furry femboy.</code>
-</details>
+Ok thanks now look at [Nfy](https://github.com/thekaigonzalez/NFyMono)
