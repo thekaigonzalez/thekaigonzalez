@@ -1,5 +1,3 @@
-<!-- 6th Revision... I HAVE IDEAS!!! -->
-
 <h1 align="center">Kai D. Gonzalez</h1>
 
 Hello. I'm Kai Gonzalez, a professional at *seeming* professional. That's all I'm good at.
