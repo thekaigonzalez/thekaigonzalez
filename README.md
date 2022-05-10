@@ -1,5 +1,9 @@
-Sigh... Like the 5th revision.
+6th Revision... I HAVE IDEAS!!!
 
-I don't know any iframe embed stuff so take this basic readme.
+# Kai D. Gonzalez
 
-Ok thanks now look at [Nfy](https://github.com/thekaigonzalez/NFyMono)
+Hello. I'm Kai Gonzalez, a professional at *seeming* professional. That's all I'm good at.
+
+At this point, I know so many programming languages it's hard to choose one to use.
+
+I ***barely*** know HTML & CSS, masterful at JavaScript, and any other *-Script*, and I know a lot of other languages like D, C++, and I've made my own.
