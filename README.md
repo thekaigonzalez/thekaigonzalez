@@ -9,4 +9,8 @@ I ***barely*** know HTML & CSS, masterful at JavaScript, and any other *-Script*
 
 <h2 align="center">On a more friendly note...</h2>
 
-I'm bisexual, a furry, and I enjoy watching YouTube and exploring different programming languages and learning how they work.
+<h3 align="center">There are no more notes.</h3>
+
+<h4 align="center">I love you :)</h4>
+
+🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈
