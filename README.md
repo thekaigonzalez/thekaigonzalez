@@ -13,4 +13,4 @@ I ***barely*** know HTML & CSS, masterful at JavaScript, and any other *-Script*
 
 <h4 align="center">I love you :)</h4>
 
-🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈
+<p align="center">🏳️‍🌈🏳️‍🌈🏳️‍🌈</p>
