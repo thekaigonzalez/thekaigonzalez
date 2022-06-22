@@ -5,7 +5,7 @@
 
 <p align="center">At this point, I know so many programming languages it's hard to choose one to use.</p>
 
-<p align="center">I ***barely*** know HTML & CSS, masterful at JavaScript, and any other *-Script*, and I know a lot of other languages like D, C++, and I've made my own.
+<p align="center">I <strong><it>barely</it></strong> know HTML & CSS, masterful at JavaScript, and any other *-Script*, and I know a lot of other languages like D, C++, and I've made my own.
 
 </p>
 
