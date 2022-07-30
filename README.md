@@ -14,3 +14,8 @@
     <img src="https://skillicons.dev/icons?i=git,linux,lua,c,vim,nodejs,py,cpp,godot,github,js,julia,md" />
   </a>
 </p>
+
+<p align="center">Also I'm an Arch Linux user ;)</p>
+<p align="center"><em>Why Arch?</em> you may ask, basically, i tried a bunch of other distros and any stable ones just didnt satisfy my tinkering thirst.</p>
+
+<p align="center">also i like using wobbly windows :D 🏳️‍🌈</p>
