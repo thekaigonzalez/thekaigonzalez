@@ -1,5 +1,8 @@
 <h1 align="center">Kai D. Gonzalez</h1>
 
+<p align="center" style="font-size: 1px">he/him</p>
+<p align="center" style="font-size: 0.5px"><em>bisexual</em></p>
+
 
 <p align="center">Hello. I'm Kai Gonzalez, a professional at *seeming* professional. That's all I'm good at.</p>
 
