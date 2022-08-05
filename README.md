@@ -15,7 +15,5 @@
   </a>
 </p>
 
-<p align="center">Also I'm an Arch Linux user ;)</p>
-<p align="center"><em>Why Arch?</em> you may ask, basically, i tried a bunch of other distros and any stable ones just didnt satisfy my tinkering thirst.</p>
-
-<p align="center">also i like using wobbly windows :D 🏳️‍🌈</p>
+<p align="center">Sadly no longer an arch linux user :(</p>
+<p align="center"><em>NononO! Why did you leave!?!</em>... well, i feel like i can easily setup Arch a <em>miiilion</em> times but i'm just lazy..</p>
