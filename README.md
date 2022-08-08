@@ -18,5 +18,9 @@
   </a>
 </p>
 
+<strike>
 <p align="center">Sadly no longer an arch linux user :(</p>
 <p align="center"><em>NononO! Why did you leave!?!</em>... well, i feel like i can easily setup Arch a <em>miiilion</em> times but i'm just lazy..</p>
+</strike>
+
+<p align="center">nvm i'm back</p>
