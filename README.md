@@ -4,7 +4,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,linux,lua,c,vim,py,cpp,godot,js,md" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,godot,js" />
   </a>
 </p>
 
