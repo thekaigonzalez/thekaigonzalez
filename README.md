@@ -9,4 +9,4 @@
   </a>
 </p>
 
-<img src="https://external-preview.redd.it/iLIkC3TLxalPc7xV9ezVQyu6DOmnwfIrrD0iCCAifGY.jpg?auto=webp&s=1506b614f08ee89e67e3860236e25ebb578bd4c0">
+<img src="https://external-preview.redd.it/iLIkC3TLxalPc7xV9ezVQyu6DOmnwfIrrD0iCCAifGY.jpg?auto=webp&s=1506b614f08ee89e67e3860236e25ebb578bd4c0" style="width=%30 height=%30">
