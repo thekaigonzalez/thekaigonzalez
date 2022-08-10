@@ -9,4 +9,6 @@
   </a>
 </p>
 
-<img src="https://external-preview.redd.it/iLIkC3TLxalPc7xV9ezVQyu6DOmnwfIrrD0iCCAifGY.jpg?auto=webp&s=1506b614f08ee89e67e3860236e25ebb578bd4c0" style="width=%30 height=%30">
+<div align="center"> 
+<img align="center" src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47iefapuyio1oc7giw4umxi9qv4yxj4pd5al8lhpv2&rid=giphy.gif&ct=g">
+</div>
