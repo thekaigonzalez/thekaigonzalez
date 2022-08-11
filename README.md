@@ -1,14 +1,15 @@
-<h1 align="center">Kai D. Gonzalez</h1>
-
-<p align="center"><strong>Incredible Programming happens here. (backend)</strong></p>
-<p align="center"><i>vi/vim</i></p>
-
+<div align="center"> 
+<img align="center" src="https://media0.giphy.com/media/l3q2x4zl5XVfRGXOo/giphy.gif?cid=6c09b952b02f2b88c6446f71d4ec25be62114b42c8dc1f1f&rid=giphy.gif&ct=g">
+</div>
+<br>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=linux,neovim,bsd" />
+    <img src="https://skillicons.dev/icons?i=linux,neovim,git" />
   </a>
 </p>
 
-<div align="center"> 
-<img align="center" src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47iefapuyio1oc7giw4umxi9qv4yxj4pd5al8lhpv2&rid=giphy.gif&ct=g">
-</div>
+<br>
+
+<p align="center">
+<i align="center">If you would like to work with me, the easiest way is on discord: kai!#4006</i>
+</p>
