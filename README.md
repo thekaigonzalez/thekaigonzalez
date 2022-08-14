@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-<i align="center">If you would like to work with me, the easiest way is on discord: Кай#4006</i>
+<i align="center">If you would like to work with me, the easiest way is on discord: xan#4006</i>
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaigonzalez&theme=dark" alt="Kai" /></p><br>
