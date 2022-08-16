@@ -5,7 +5,7 @@
 </p>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="?">
+<img src="https://skillicons.dev/icons?i=linux,neovim" alt="?">
 <br>
 <br>
 <div align="center"> 
