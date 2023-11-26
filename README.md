@@ -15,7 +15,14 @@ width=100 height=100>
   <br>
   <a href="https://github.com/thekaigonzalez/NexFUSE">that compiles to my own custom bytecode format</a>
   <br>
-  now that's full stack development
+</div>
+
+<div align="center">
+<p>full-stack systems engineer</p>
+  <br>
+  <p>programming language designer, compiler infrastructure</p>
+  <br>
+  <i>"Being a compiler developer is a lot like being a magician – turning high-level abstractions into low-level machine code, making bugs disappear, and occasionally pulling a performance boost out of a hat."</i>
 </div>
 
 </div>
