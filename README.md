@@ -1,5 +1,10 @@
-<!--- Revision #25 : definitely still alive --->
+<!--- Revision #26 : definitely still alive --->
 
+[![the awesome skills i have](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![the awesome skills i have](https://skillicons.dev/icons?i=perl)](https://skillicons.dev)
+<div align="right">
+  [![other skils](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
+</div>
 <div align="center">
 
 <img
